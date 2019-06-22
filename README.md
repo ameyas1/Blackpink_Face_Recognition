@@ -2,6 +2,9 @@
 VggFace architecture is used to recognise faces of Blackpink members.
 
 
+![image](https://user-images.githubusercontent.com/32215628/59959212-6def0480-94d0-11e9-8de6-97e098292c35.png)
+
+
 original_train : https://drive.google.com/open?id=1PONpSoTBbV3TzTBvEKfalyv-1QQ6W0nr
 
 original_test : https://drive.google.com/open?id=1PONpSoTBbV3TzTBvEKfalyv-1QQ6W0nr
