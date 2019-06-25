@@ -20,3 +20,5 @@ vgg_processes_test : https://drive.google.com/file/d/1jJEoJr8CvdNFDG0aPjXdoN-Ngz
 original vgg architecture : https://drive.google.com/open?id=0B4ChsjFJvew3NkF0dTc1OGxsOFU
 
 blackpink model : https://drive.google.com/file/d/1-WkM46i0NJg09pK5Ppzwx2yQH3MXfnOe/view?usp=sharing
+
+ssd_directory_for_video : https://drive.google.com/file/d/108rFWJWnlx8SUwNMjCbg6Yv7RLl9VIrG/view?usp=sharing
